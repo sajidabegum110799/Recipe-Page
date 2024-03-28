@@ -1,0 +1,96 @@
+img {
+    width: 100%;
+    border-radius: 20px;
+}
+
+.Recipe h1 {
+    font-size: 4rem;
+    font-weight: 700;
+    margin: 1rem;
+    font-family: Young Serif, sans-serif;
+}
+
+.Recipe p {
+    font-size: 1rem;
+    font-weight: 500;
+    margin: 0.5rem;
+    color: hsl(30, 10%, 34%);
+    font-family: Outfit;
+}
+
+.preparation {
+    height: 30vh;
+    background-color: hsl(30, 18%, 87%);
+    border-radius: 20px;
+}
+
+.preparation h3 {
+    font-size: 2rem;
+    font-weight: 400;
+    padding-top: 1.5rem;
+    padding-left: 2rem;
+    margin-bottom: 0.8rem;
+    color: hsl(332, 51%, 32%);
+    font-family: Young serif, sans-serif;
+}
+
+.preparation li {
+    font-size: 1rem;
+    font-family: Outfit;
+    margin-bottom: 0.6rem;
+    margin-left: 1.8rem;
+}
+
+h2 {
+    font-size: 2.2rem;
+    font-weight: 500;
+    padding-top: 1rem;
+    padding-left: 0.5rem;
+    color: hsl(14, 45%, 36%);
+    font-family: Young Serif, sans-serif;
+}
+
+li {
+    font-size: 1rem;
+    font-family: Outfit;
+    margin-bottom: 0.6rem;
+}
+
+hr {
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.nutrition-para {
+    font-size: 1.5rem;
+    font-weight: 400;
+    font-family: Outfit;
+    margin: 0.5rem;
+}
+
+.nutri-div {
+    font-size: 1.3rem;
+    font-weight: 600;
+    font-family: Outfit;
+    margin-left: 0.5rem;
+}
+
+#first {
+    margin-left: 19em;
+    color: hsl(14, 45%, 36%);
+}
+
+#second {
+    margin-left: 21em;
+    color: hsl(14, 45%, 36%);
+}
+
+#third {
+    margin-left: 20em;
+    color: hsl(14, 45%, 36%);
+}
+
+#fourth {
+    margin-left: 22em;
+    color: hsl(14, 45%, 36%);
+}
